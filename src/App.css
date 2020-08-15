@@ -13,3 +13,16 @@ a {
   color: black;
   text-decoration: none;
 }
+
+.container {
+  padding: 0 1rem;
+}
+
+.btn {
+  display: inline-block;
+  border: none;
+  background: black;
+  color: white;
+  padding: 7 20;
+  cursor: pointer;
+}
